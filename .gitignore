@@ -6,3 +6,7 @@ alo
 # chung ta se bo qua tat ca cac file co duoi .log
 *.log
 
+
+# I want to ignore abc.xyz but still strack myfile.xyz
+# All .xyz files will be ignored in the git repo
+/*.xyz
