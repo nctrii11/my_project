@@ -10,3 +10,8 @@ alo
 # I want to ignore abc.xyz but still strack myfile.xyz
 # All .xyz files will be ignored in the git repo
 /*.xyz
+
+# I want to ignore abc.txt in the second_folder.
+# Ubuntu uses "/" as the path separator
+# Windows uses "//" or "\" as the path separator
+second_folder/abc.txt
