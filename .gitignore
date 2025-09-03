@@ -14,4 +14,7 @@ alo
 # I want to ignore abc.txt in the second_folder.
 # Ubuntu uses "/" as the path separator
 # Windows uses "//" or "\" as the path separator
+# The command works perfectly.
 second_folder/abc.txt
+
+second_folder\xyz.txt
